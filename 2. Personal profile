@@ -15,9 +15,9 @@ affiliations and status that's shown for other players to see.
    - The membership for the association: the all wide window, separating the player's description from stats window
    - Stats window summary: it's below everything else on that page and shows everything in a specific order:
      * defensive stats:
-       - health (the player's measure count for body's survival capabilities) (it's based on the player's level and vitality attribute count)
+       - health (the player's measure count for body's survival capabilities) (it's based on the player's level and liveliness attribute count)
 
-       - endurance (the player's measure count for body's damage absorbtion capabilities) (it's solely based on vitality attribute count)
+       - endurance (the player's measure count for body's damage absorbtion capabilities) (it's solely based on liveliness attribute count)
 
        - armor (the player's measure for equipment's capability count to absorb damage taken until the enemy can inflict damage to your body)
                (armor is solely dependent on the equipment's quality one wears) (endurance stat can't reduce the damage taken by armor stat)
@@ -48,10 +48,10 @@ affiliations and status that's shown for other players to see.
                            (it is dependent on the combat training sessions)
 
      * attribute stats:
-       -
-       -
-       -
-       -
+       - liveliness: every single point increases health by 50 and endurance by 2
+       - vehemence: every single point inreases physical damage by 10 and physical resistance by 5
+       - swiftness: every single point increases kinetic damage by 10 and kinetic resistance by 5
+       - attentiveness: every single point increases energy damage by 10 and energy resistance by 5
 
 
 
