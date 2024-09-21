@@ -1,0 +1,33 @@
+Personal Profile is a panel where you can view your:
+overall statistics, equipment, weaponry, skills, jobs proficiency, meaningfullness bonuses,
+affiliations and status that's shown for other players to see.
+
+1. Main profile page:
+   That's the first page of the curriculum for the player's info.
+   It contains his avatar looks, activity status, peaceful/hostile public status, player's role
+   Date of joining the game, class of the player, affiliation, membership in an associaship
+   And raw stats summary.
+
+   - The placement for the avatar's picture: top left corner of the MP page;
+   - The profile description's placement: next to the avatar's picture matching its height,
+     Description's contents from top to bottom: Player's name, Activity status, Date of joining
+                                                Class, Role, affiliation, Public Status
+   - The membership for the association: the all wide window, separating the player's description from stats window
+   - Stats window summary: it's below everything else on that page and shows everything in a specific order:
+     * defensive stats:
+       - health (the player's measure for body's survival capabilities) (it's based on the player's level and vitality attribute count)
+       - endurance (the player's measure for body's damage absorbtion capabilities) (it's solely based on vitality attribute count)
+       - armor (the player's measure for equipment's capability to absorb damage taken until the enemy can inflict damage to your body)
+               (armor is solely dependent on the equipment's quality one wears) (endurance stat can't reduce the damage taken by armor stat)
+       - physical resistance (the player's capability to absorb the damage made by meele weapons lessening the damage taken for both
+                              the body and armor one wears) (it's dependent on the vehemence attribute stat count)
+       - kinetic resistance (for firearms damage) (dependent on swiftness attribute stat count)
+       - energy resistance (for laser/electric damage) (dependent on attentiveness attribute stat count)
+       - evasion rate (
+
+
+
+
+
+
+
