@@ -15,15 +15,43 @@ affiliations and status that's shown for other players to see.
    - The membership for the association: the all wide window, separating the player's description from stats window
    - Stats window summary: it's below everything else on that page and shows everything in a specific order:
      * defensive stats:
-       - health (the player's measure for body's survival capabilities) (it's based on the player's level and vitality attribute count)
-       - endurance (the player's measure for body's damage absorbtion capabilities) (it's solely based on vitality attribute count)
-       - armor (the player's measure for equipment's capability to absorb damage taken until the enemy can inflict damage to your body)
+       - health (the player's measure count for body's survival capabilities) (it's based on the player's level and vitality attribute count)
+
+       - endurance (the player's measure count for body's damage absorbtion capabilities) (it's solely based on vitality attribute count)
+
+       - armor (the player's measure for equipment's capability count to absorb damage taken until the enemy can inflict damage to your body)
                (armor is solely dependent on the equipment's quality one wears) (endurance stat can't reduce the damage taken by armor stat)
+
        - physical resistance (the player's capability to absorb the damage made by meele weapons lessening the damage taken for both
                               the body and armor one wears) (it's dependent on the vehemence attribute stat count)
-       - kinetic resistance (for firearms damage) (dependent on swiftness attribute stat count)
-       - energy resistance (for laser/electric damage) (dependent on attentiveness attribute stat count)
-       - evasion rate (
+       - kinetic resistance (for firearms damage) (it's dependent on swiftness attribute stat count)
+       - energy resistance (for laser/electric damage) (it's dependent on attentiveness attribute stat count)
+
+       - evasion rate (the player's capability per chance to not take any damage at all) (it's set by 5% for every player at the beginning)
+
+       - block rate (the player's capability per chance to take lesser damage than if exposed) (it's dependent on the combat training sessions)
+
+       - block severity (the player's capability of blocking damage taken in a certain percentage scope when in effect) 
+                        (it's dependent on the combat training sessions) (after reducing the damage with block severity the damage will be absorbed
+                         by its respective resistance (and by endurance if equipment isn't covering the damage anymore but the body takes it)
+                         and the rest of the damage will be dealt to either armor or health as a result) (combat training sessions = CTS)
+
+     * offensive stats:
+       - base damage (the player's measure of dealing universal damage on any opponent out of attribute damage) (dependent on the player's level)
+
+       - physical damage /(the player's attribute damage count added when using a specific type of weapon)                                  /
+       - kinetic damage /(it's dependent by each respective attribute stat count and the quality of the weapon one uses)                   /
+       - energy damage /(one of the damage types combined with base damage make specified damage that will be delivered against the enemy)/
+
+       - critical rate (the player's capability per chance to deliver base or specified damage with higher power) (it's dependent on CTS)
+       - critical severity (the player's capability of dealing additional damage within a certain percentage scope when in effect)
+                           (it is dependent on the combat training sessions)
+
+     * attribute stats:
+       -
+       -
+       -
+       -
 
 
 
