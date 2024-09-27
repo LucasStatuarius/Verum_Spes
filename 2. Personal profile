@@ -12,7 +12,7 @@ affiliations and status that's shown for other players to see.
    - The profile description's placement: next to the avatar's picture matching its height,
      Description's contents from top to bottom: Player's name, Activity status, Date of joining
                                                 Class, Role, affiliation, Public Status
-   - The membership for the association: the all wide window, separating the player's description from stats window
+   - The membership for the association: the all wide window, separating the player's description and avatar from stats window
    - Stats window summary: it's below everything else on that page and shows everything in a specific order:
      * defensive stats:
        - health (the player's measure count for body's survival capabilities) (it's based on the player's level and liveliness attribute count)
@@ -23,9 +23,9 @@ affiliations and status that's shown for other players to see.
                (armor is solely dependent on the equipment's quality one wears) (endurance stat can't reduce the damage taken by armor stat)
 
        - physical resistance (the player's capability to absorb the damage made by meele weapons lessening the damage taken for both
-                              the body and armor one wears) (it's dependent on the vehemence attribute stat count)
-       - kinetic resistance (for firearms damage) (it's dependent on swiftness attribute stat count)
-       - energy resistance (for laser/electric damage) (it's dependent on attentiveness attribute stat count)
+                              the body and armor one wears) (it's dependent on the vehemence attribute stat count and clothings one wears)
+       - kinetic resistance (for firearms damage) (it's dependent on swiftness attribute stat count and clothings one wears)
+       - energy resistance (for laser/electric damage) (it's dependent on attentiveness attribute stat count and clothes one wears)
 
        - evasion rate (the player's capability per chance to not take any damage at all) (it's set by 5% for every player at the beginning)
 
@@ -53,6 +53,22 @@ affiliations and status that's shown for other players to see.
        - swiftness: every single point increases kinetic damage by 10 and kinetic resistance by 5
        - attentiveness: every single point increases energy damage by 10 and energy resistance by 5
 
+     * base stats explanation: 
+       - base damage: every single level of the character makes the player deal 10 more damage (lvl 1: 10, lvl 4: 40 and so on)
+       - health: every single level of the character makes the player have 100 more health (lvl 1: 100, lvl 3: 300 and so on)
+       
+2. Equipment page:
+   The page where one can see the defensive capabilities of the certain player through what one wears
+   The slots of the equipment are described like this:
+   - one can wear clothings each at one time (upper clothing, lower clothing, head gear and foot gear) and those 
+     will be possessing armor and its specific resistances that will add a diversity for getting loot and crafting.
+   - one can wear accessories which have its own qualities if you are wearing (2-4 slots would be fine and I have no particular idea yet).
+   - for cyberpunks they can also be equipped with installed implants that enhance the abilities for the player of that class
+     implants possess offensive capabilities however those are placed there because they are intalled in the cyberpunk's body
+     and it's directly connected to it.
+
+3. Weapons page:
+   The page where one can see the offensive capabilities of the certain player through weapons one is equipped with.
 
 
 
