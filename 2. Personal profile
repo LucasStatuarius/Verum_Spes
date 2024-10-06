@@ -24,8 +24,8 @@ affiliations and status that's shown for other players to see.
 
        - physical resistance (the player's capability to absorb the damage made by meele weapons lessening the damage taken for both
                               the body and armor one wears) (it's dependent on the vehemence attribute stat count and clothings one wears)
-       - kinetic resistance (for firearms damage) (it's dependent on swiftness attribute stat count and clothings one wears)
-       - energy resistance (for laser/electric damage) (it's dependent on intellect attribute stat count and clothes one wears)
+       - kinetic resistance (it's dependent on swiftness attribute stat count and clothings one wears)
+       - energy resistance (it's dependent on intellect attribute stat count and clothes one wears)
 
        - evasion rate (the player's capability per chance to not take any damage at all) (it's set by 5% for every player at the beginning)
 
