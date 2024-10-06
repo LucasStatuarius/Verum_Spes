@@ -22,7 +22,7 @@ affiliations and status that's shown for other players to see.
        - armor (the player's measure for equipment's capability count to absorb damage taken until the enemy can inflict damage to your body)
                (armor is solely dependent on the equipment's quality one wears) (endurance stat can't reduce the damage taken by armor stat)
 
-       - physical resistance (the player's capability to absorb the damage made by meele weapons lessening the damage taken for both
+       - physical resistance (the player's capability to absorb the physical damage lessening the damage taken for both
                               the body and armor one wears) (it's dependent on the vehemence attribute stat count and clothings one wears)
        - kinetic resistance (it's dependent on swiftness attribute stat count and clothings one wears)
        - energy resistance (it's dependent on intellect attribute stat count and clothes one wears)
