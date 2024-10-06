@@ -43,7 +43,7 @@ affiliations and status that's shown for other players to see.
        - kinetic damage /(it's dependent by each respective attribute stat count and the quality of the weapon one uses)                   /
        - energy damage /(one of the damage types combined with base damage make specified damage that will be delivered against the enemy)/
 
-       - critical rate (the player's capability per chance to deliver base or specified damage with higher power) (it's dependent on CTS)
+       - critical rate (the player's capability per chance to deliver base or specified damage with higher power) (depndd on CTS)
        - critical severity (the player's capability of dealing additional damage within a certain percentage scope when in effect)
                            (it is dependent on the combat training sessions)
 
