@@ -25,7 +25,7 @@ affiliations and status that's shown for other players to see.
        - physical resistance (the player's capability to absorb the damage made by meele weapons lessening the damage taken for both
                               the body and armor one wears) (it's dependent on the vehemence attribute stat count and clothings one wears)
        - kinetic resistance (for firearms damage) (it's dependent on swiftness attribute stat count and clothings one wears)
-       - energy resistance (for laser/electric damage) (it's dependent on attentiveness attribute stat count and clothes one wears)
+       - energy resistance (for laser/electric damage) (it's dependent on intellect attribute stat count and clothes one wears)
 
        - evasion rate (the player's capability per chance to not take any damage at all) (it's set by 5% for every player at the beginning)
 
@@ -51,7 +51,7 @@ affiliations and status that's shown for other players to see.
        - liveliness: every single point increases health by 50 and endurance by 2
        - vehemence: every single point inreases physical damage by 10 and physical resistance by 5
        - swiftness: every single point increases kinetic damage by 10 and kinetic resistance by 5
-       - attentiveness: every single point increases energy damage by 10 and energy resistance by 5
+       - intellect: every single point increases energy damage by 10 and energy resistance by 5
 
      * base stats explanation: 
        - base damage: every single level of the character makes the player deal 10 more damage (lvl 1: 10, lvl 4: 40 and so on)
@@ -69,6 +69,28 @@ affiliations and status that's shown for other players to see.
 
 3. Weapons page:
    The page where one can see the offensive capabilities of the certain player through weapons one is equipped with.
+
+4. Skills page:
+   The page where one can see trained skills and their levels as well as their description 
+   and effects both in ways and numerical quality of the skill. That will be explained later on
+
+5. Jobs proficiency gives details to how developed one can be in certain occupation types that demand
+   liveliness, vehemence, swiftness and intellect, that measure is shown in job proficiency, training bonuses
+   that explain why one is having higher stats than what is shown in the occupation type level count.
+
+6. Meaningfulness page shows how one is proficient at analysing lore notes with certain NPC's
+   and it shows the player's average score in interpretation of texts which give one meaning exp
+   in return for the grade of how one was doing with certain texts. Meaningfulness makes one have
+   certain percentage bonuses which give one additional advantages thanks to which one can pass
+   extremely difficult raids that require more than good equipment, weaponry, skills and attributes.
+   There will be rating in average score from 1 to 7 just like in certain schools (for example in Italy)
+   There will be also shown bonuses one currently choose to have. I will explain how does it all work
+   in separate chapter.
+
+
+
+
+
 
 
 
