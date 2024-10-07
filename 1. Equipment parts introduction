@@ -10,7 +10,29 @@ Here I will be writing about clothings, weapons and accessories.
 2. Accessories;
    In the game there will be 2 accessories slots one can possibly have and one
    can have various types of accessories that influence its respective areas
-   which those are responsible for.
+   which those are responsible for. For instance:
+   - Finger ring
+   - Ear ring
+   - Pendant
+   - Watch
+
+3. Weaponry;
+   There will be several weapon types which would have its specific properties:
+   - Swords (deal base damage + 2x int. stat's count * ADEI + 3x veh. stat's count * ADEI)
+            (the best for ones who utilize highly defensive stance) (deals good damage considering twinned
+             damage output (physical and kinetic) which can swiftly utilize lacks in enemy's resistances)
+
+   - Drones (deal base damage + 3x int. stat's count * ADEI + 2x swi. stat's count * ADEI)
+            (the best for ones who prefer to control the drone and shoot lasers on the enemy while running away)
+            (it's a smart tactic against barbarians who only focus on physical prowess)
+
+   - Guns (deal base damage + 2x int. stat's count * ADEI 
+
+   - Attack gloves (deal base damage + pure physical damage 4 times the vehemence stat's count
+                    multiplied by the attribute damage empowerment index (ADEI) )
+                   (the best for brutal barbaric boxers) (the worst if one has high physical resistance)
+
+   -
 
 
 
