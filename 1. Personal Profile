@@ -48,10 +48,10 @@ affiliations and status that's shown for other players to see.
                            (it is dependent on the combat training sessions)
 
      * attribute stats:
-       - liveliness: every single point increases health by 50 and endurance by 2
-       - vehemence: every single point inreases physical damage by 10 and physical resistance by 5
-       - swiftness: every single point increases kinetic damage by 10 and kinetic resistance by 5
-       - intellect: every single point increases energy damage by 10 and energy resistance by 5
+       - liveliness: every single point increases health by 50 and endurance by 5
+       - vehemence: the number of veh. points dictates the damage output and its resistance
+       - swiftness: the number of swi. points dictates the damage output and its resistance
+       - intellect: the number of int. points dictates the damage output and its resistance
 
      * base stats explanation: 
        - base damage: every single level of the character makes the player deal 10 more damage (lvl 1: 10, lvl 4: 40 and so on)
