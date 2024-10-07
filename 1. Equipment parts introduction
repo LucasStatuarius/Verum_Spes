@@ -2,39 +2,81 @@ Here I will be writing about clothings, weapons and accessories.
 
 1. Clothings;
    In the game there will be 4 clothing types one can equip and no more:
-   - Upper clothing (will be the richest in armor stats count)
-   - Lower clothing (will be the second in terms of armoring)
-   - Head gear (will be 3rd...)
-   - Foot gear (will be 4th...)
+   - Upper clothing (will be the richest in armor stats count) (this equipment part can also have resistances)
+   - Lower clothing (will be the second in terms of armoring) (resistances are here too)
+   - Head gear (will be 3rd...) (resistances are here also)
+   - Foot gear (will be 4th...) (resistances are also here)
 
 2. Accessories;
    In the game there will be 2 accessories slots one can possibly have and one
    can have various types of accessories that influence its respective areas
    which those are responsible for. For instance:
-   - Finger ring
-   - Ear ring
-   - Pendant
-   - Watch
+   - Finger ring - improves mainly vehemence through it's additional pure number
+   - Ear ring - improves mainly swiftness through it's additional pure number
+   - Pendant - improves mainly vitality through it's additional pure number
+   - Watch - improves mainly intellect through it's additional pure number
 
 3. Weaponry;
    There will be several weapon types which would have its specific properties:
    - Swords (deal base damage + 2x int. stat's count * ADEI + 3x veh. stat's count * ADEI)
-            (the best for ones who utilize highly defensive stance) (deals good damage considering twinned
-             damage output (physical and kinetic) which can swiftly utilize lacks in enemy's resistances)
 
    - Drones (deal base damage + 3x int. stat's count * ADEI + 2x swi. stat's count * ADEI)
-            (the best for ones who prefer to control the drone and shoot lasers on the enemy while running away)
-            (it's a smart tactic against barbarians who only focus on physical prowess)
 
-   - Guns (deal base damage + 2x int. stat's count * ADEI 
+   - Guns (deal base damage + 3x swi. stat's count * ADEI + 2x veh. stat's count * ADEI)
 
    - Attack gloves (deal base damage + pure physical damage 4 times the vehemence stat's count
-                    multiplied by the attribute damage empowerment index (ADEI) )
-                   (the best for brutal barbaric boxers) (the worst if one has high physical resistance)
+                    multiplied by the "attribute damage empowerment index" (ADEI) )
 
-   -
+   - Plasma riffles (deal base damage + pure energy damage 4 times the int. * ADEI)
 
+   - Greade launcher (deal base damage + pure kinetic damage 4 times the swi. * ADEI)
 
+4. For every Equipment part there are also tiers that can influence the quality of all of 
+   described above stuff's properties. I will bring the description:
+   - Trash grade: has the lowest properties and basically has one weak stat
+   - Common grade: has still one property, however it's better than trash grade
+   - Rare grade: has two properties and better stats than common grade
+   - Unique grade: has two properties and you can install additional random stat
+   - Incredible: has two properties and you can intall two additional random stats
+
+   I have to underline that random doesn't mean every stat possible in game.
+   Additional stats just make weapons, clothings and accessories have its realistic
+   extensions of the qualities which make every part of the equipment integral,
+   independent, and logical. 
+   How can you have health or vitality stat in your weapon which is not 
+   close to your own vital organs and doesn't have any healing properties?
+   How could you have critical rate and severity from clothes or watch where it is
+   solely dependent on your abilities to catch the moment of an opportunity to wound
+   heavily your enemy and then use that moment for your best advantage?
+
+   That all explains why I will add also Training Sessions which improve one's health,
+   endurance, attributes, critical rate/sev and block rate/sev.
+
+5. Leveling equipment up:
+   When I was playing the ALC I was very upset about leaving my well-made equipment that
+   can't be developed further than the limit of 10 levels upgrade after I maxed it's level
+   and my current at that time level was far beyond that level.
+
+   The equipment levels are limited to the level stages which are absurd for many players
+   without any way (even risky one) to breakthough past that limit making them grind all
+   over again to get good or even better equipment stats than before changing the set.
+
+   I have envisioned a better way than in CCO and ALC to manage and develop equipment
+   parts which is founded on 2 pillars:
+   - The equipment drop from enemy buildings and complexes of facilities are gradual
+     meaning that they drop in a scope of 5 levels below the raided area lvl and 2 
+     levels above the raided area lvl drop from defeated enemies or chests loots.
+   - The equipment after 6 optimizations (that's the term for lvling up) can't be 
+     developed further. That's why it needs to be rebuilt by the smith for a high price.
+     The more times the equipment will be successfuly rebuilt the lower will be
+     the success rate and the higher will be the destruction rate if failed.
+     Also the rebuilding will take some time so you need to wait minutes or even
+     hours to complete it. It's better to have a back-up equipment at that time.
+
+6. By the way there is no need to do "calibration" of the equipment like in ALC
+   because it's riddiculously dependent on luck to get a way more powerful
+   equipment than other unlucky do (skills and wisdom over luck). I don't want to 
+   add another trouble for my programmer friend who would code it all in my stead.
 
 
 
